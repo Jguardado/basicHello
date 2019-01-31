@@ -13,6 +13,7 @@
 		D9F1D51D22020A0B00EAA7D5 /* hello_app.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D9F1D51B22020A0B00EAA7D5 /* hello_app.xcdatamodeld */; };
 		D9F1D51F22020A0C00EAA7D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9F1D51E22020A0C00EAA7D5 /* Assets.xcassets */; };
 		D9F1D52222020A0C00EAA7D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9F1D52022020A0C00EAA7D5 /* LaunchScreen.storyboard */; };
+		D9F1D52C2202108800EAA7D5 /* HelloTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F1D52B2202108800EAA7D5 /* HelloTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D9F1D51E22020A0C00EAA7D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9F1D52122020A0C00EAA7D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D9F1D52322020A0C00EAA7D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9F1D52B2202108800EAA7D5 /* HelloTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D9F1D51422020A0B00EAA7D5 /* AppDelegate.swift */,
 				D9F1D51622020A0B00EAA7D5 /* ViewController.swift */,
 				D9F1D51822020A0B00EAA7D5 /* Main.storyboard */,
+				D9F1D52B2202108800EAA7D5 /* HelloTableViewController.swift */,
 				D9F1D51E22020A0C00EAA7D5 /* Assets.xcassets */,
 				D9F1D52022020A0C00EAA7D5 /* LaunchScreen.storyboard */,
 				D9F1D52322020A0C00EAA7D5 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9F1D52C2202108800EAA7D5 /* HelloTableViewController.swift in Sources */,
 				D9F1D51722020A0B00EAA7D5 /* ViewController.swift in Sources */,
 				D9F1D51D22020A0B00EAA7D5 /* hello_app.xcdatamodeld in Sources */,
 				D9F1D51522020A0B00EAA7D5 /* AppDelegate.swift in Sources */,
